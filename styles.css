@@ -58,6 +58,17 @@ body {
 }
 
 
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#navbar li {
+    list-style: none;
+    padding: 0 20px;
+}
+
 /* Home Page */
 
 

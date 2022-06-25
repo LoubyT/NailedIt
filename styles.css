@@ -288,6 +288,9 @@ footer .fab-instagram {
 
 /* About Section */
 
+#page-header.about-header {
+    background-image: url("img/about/banner.png");
+}
 
 /* Start Media Query */
 

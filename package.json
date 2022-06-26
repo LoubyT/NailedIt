@@ -8,7 +8,12 @@
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
   },
   "repository": {
     "type": "git",
@@ -21,13 +26,5 @@
     "url": "https://github.com/LoubyT/NailedIt/issues"
   },
   "homepage": "https://github.com/LoubyT/NailedIt#readme"
+
 }
-
-
-"scripts": {
-  "dev": "nuxt",
-  "build": "nuxt build",
-  "start": "nuxt start",
-  "export": "nuxt export",
-  "serve": "nuxt serve"
-},

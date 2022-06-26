@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@chec/commerce.js": "^2.8.0",
+    "nuxt": "^2.15.8"
+  },
+  "name": "nailedit",
+  "description": "This website is built to run the ecommerce side of Kait Trahan's ecommerce business. It allows users to customize and purchase her products online hassle free. It gives customers a clear way to get in contact with them as well.",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoubyT/NailedIt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoubyT/NailedIt/issues"
+  },
+  "homepage": "https://github.com/LoubyT/NailedIt#readme"
+}
+
+
+"scripts": {
+  "dev": "nuxt",
+  "build": "nuxt build",
+  "start": "nuxt start",
+  "export": "nuxt export",
+  "serve": "nuxt serve"
+},

@@ -531,6 +531,10 @@ footer .fab-instagram {
 
 /* Cart Page */
 
+#cart {
+    overflow-x: auto;
+}
+
 #cart table {
     width: 100%;
     border-collapse: collapse;
@@ -817,5 +821,18 @@ footer .fab-instagram {
     #form-details form {
         width: 100%;
         margin-bottom: 30px;
+    }
+
+    #cart-add {
+        flex-direction: column;
+    }
+
+    #paypal-ad {
+        width: 100%;
+    }
+
+    #subtotal {
+        width: 100%;
+        padding: 20px;
     }
 }
